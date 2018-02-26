@@ -1,0 +1,2 @@
+# RubySuperMethod
+スーパーメソッド
