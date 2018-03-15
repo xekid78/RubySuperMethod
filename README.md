@@ -2,14 +2,14 @@
 スーパーメソッド
 
 ## 処理
-superメソッドを使って親クラスのメソッドを呼び出す。
+super()メソッドを使って親クラスのメソッドを呼び出す。
 
 ## コード
 ```
 class Greeting
     def initialize()
-        @msg = "hello"
-        @target = "paiza"
+        @msg = "Hello"
+        @target = "World"
     end
 
     def say_hello()
@@ -30,7 +30,7 @@ hello.say_hello()
 
 ## 出力結果  
 ```
-hello paiza
+Hello World
 WA HA HA HA
 ```
   
