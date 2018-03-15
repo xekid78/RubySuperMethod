@@ -1,7 +1,7 @@
 class Greeting
     def initialize()
-        @msg = "hello"
-        @target = "paiza"
+        @msg = "Hello"
+        @target = "World"
     end
 
     def say_hello()
